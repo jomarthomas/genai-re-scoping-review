@@ -1,0 +1,63 @@
+
+📌 Kanban Backlog Items for Scoping Review Research Project
+
+1 Pre-Review Phase
+1.1 Formulate the research team.
+1.2 Develop research question(s) and refine scope.
+1.3 Determine eligibility criteria for studies.
+1.4 Conduct an initial literature scoping to check for existing reviews.
+1.5 Create and populate research_questions.md.
+
+2. Develop Protocol
+2.1 Write and document the scoping review protocol.
+2.2 Define inclusion/exclusion criteria.
+2.3 Upload the protocol to docs/protocol.md.
+2.4 Make protocol publicly accessible (e.g., GitHub).
+
+3 Conduct Literature Searches
+3.1 Identify databases for literature search (ACM, IEEE Xplore, ArXiv, etc.).
+3.2 Develop search query strings.
+3.3 Perform database searches and collect initial results.
+3.4 Document search strategy in protocol.md.
+3.5 Store retrieved articles in literature/papers/.
+
+Manage Citations
+Export citations to a reference manager (e.g., Endnote, Zotero).
+Generate PRISMA flowchart.
+Deduplicate and clean citations.
+Upload citations to references.bib.
+
+Screen Citations
+Screen article titles/abstracts using inclusion criteria.
+Conduct full-text screening for eligible articles.
+Maintain a record of decisions in literature_matrix.csv.
+
+Complete Data Extraction
+Extract relevant data points from selected studies.
+Populate literature_matrix.csv with metadata and key findings.
+Store extracted data for visualization.
+
+Conduct Quality Assessment (Optional)
+Evaluate study quality using predefined criteria.
+Document quality assessment decisions.
+
+Automate Literature Processing (Using JavaScript)
+Develop or refine scraper.js to extract metadata.
+Implement data_cleaning.js to preprocess study data.
+Enhance nlp_analysis.js to analyze keywords and trends.
+
+Generate Visualizations
+Create keyword trend analysis (keyword_trends.png).
+Develop thematic research maps (research_focus_areas.png).
+Store visualizations in visualizations/.
+
+Write Review Paper
+Draft manuscript sections (paper/sections/).
+Format references in references.bib.
+Review manuscript with team feedback.
+Submit for conference/journal.
+
+Organize Documentation & Meetings
+Update README.md with project structure.
+Maintain meeting notes in meetings/meeting_notes.md.
+Prepare progress reports (meetings/presentations/).
