@@ -43,7 +43,7 @@ The search focuses on the intersection of Generative AI technologies and RE. Bro
 |----------------------|--------------------------------------------------|------------------------------------------------|
 | **Databases**        | Indexed in Scopus, IEEE Xplore, ACM, SpringerLink, Web of Science | Not indexed in the selected databases         |
 | **Document Types**   | Journal articles, conference papers              | Editorials, blogs, or non-peer-reviewed works |
-| **Years**            | 2010–Present                                    | Pre-2010                                      |
+| **Years**            | 2015–Present                                    | Pre-2015                                      |
 | **Language**         | English                                          | Non-English                                   |
 | **Topic Focus**      | Focused on Generative AI and RE                  | General AI topics not specific to RE          |
 
@@ -57,7 +57,7 @@ The search focuses on the intersection of Generative AI technologies and RE. Bro
 ### Full-Text Review  
 - Verification of inclusion criteria via a full-text scan.  
 - Articles meeting the criteria will proceed to data extraction.  
-x
+
 ## Data Extraction Plan  
 The following data will be extracted:  
 - Title, author(s), year, and publication venue  
@@ -77,8 +77,5 @@ The subgroup analysis will address:
 - Geographical or institutional trends  
 
 ## References  
-- Kitchenham, B., et al. (2009). Systematic literature reviews in software engineering – A systematic literature review. *Information and Software Technology, 51*(1), 7-15.  
-- Relevant foundational literature on Generative AI and Requirements Engineering.  
-
----  
-This protocol ensures a structured and replicable approach to understanding the current state of Generative AI in Requirements Engineering.
+- Kitchenham, B., et al. (2009). Systematic literature reviews in software engineering – A systematic literature review. *Information and Software Technology, 51*(1), 7-15.
+- M. Phillips et al., "Systematic Reviews in the Engineering Literature: A Scoping Review," in IEEE Access, vol. 12, pp. 62648-62663, 2024, doi: 10.1109/ACCESS.2024.3394755.
