@@ -41,7 +41,7 @@ The search focuses on the intersection of Generative AI technologies and RE. Bro
 
 | **Area**            | **Inclusion**                                     | **Exclusion**                                   |
 |----------------------|--------------------------------------------------|------------------------------------------------|
-| **Databases**        | Indexed in Scopus, IEEE Xplore, ACM, SpringerLink, Web of Science | Not indexed in the selected databases         |
+| **Databases**        | Indexed in Scopus, IEEE Xplore, and SpringerLink | Not indexed in the selected databases         |
 | **Document Types**   | Journal articles, conference papers              | Editorials, blogs, or non-peer-reviewed works |
 | **Years**            | 2015–Present                                    | Pre-2015                                      |
 | **Language**         | English                                          | Non-English                                   |
