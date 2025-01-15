@@ -50,7 +50,7 @@ The primary goal of this research is to:
 ---
 
 ## 🔍 Research Methodology  
-This study follows a **systematic scoping review approach**, using the following steps&#8203;:contentReference[oaicite:0]{index=0}:  
+This study follows a **systematic scoping review approach**, using the following steps:  
 1. **Defining Research Questions** – Clarifying the scope and objectives of the study.  
 2. **Search Strategy Development** – Identifying keywords and selecting academic databases (e.g., IEEE Xplore, Scopus, ACM Digital Library).  
 3. **Study Selection** – Screening studies based on inclusion/exclusion criteria.  
